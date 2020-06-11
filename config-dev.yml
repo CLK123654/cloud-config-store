@@ -1,2 +1,4 @@
 profile: dev
 version: 2
+server:
+  port: 2256
